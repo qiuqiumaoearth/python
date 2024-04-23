@@ -1,3 +1,5 @@
+aaa=1
+b=3
 '''
 标识符
 False
@@ -34,3 +36,9 @@ for
 ###### nonlocal
 with
 '''
+
+#定义变量：存储数据TOM
+my_name = 'TOM'
+print(my_name)
+
+
