@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d143f89-2b08-4a76-a37d-7c9d80a7f2da" name="变更" comment="Merge remote-tracking branch 'origin/1' into 1">
-      <change afterPath="$PROJECT_DIR$/class/01 python 基础语法/09-字典和集合/02-字典的遍历.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/01 python 基础语法/09-字典和集合/03-集合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/01 python 基础语法/10-公共的方法/01-运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/01 python 基础语法/10-公共的方法/02-公共方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/01 python 基础语法/11-推导式/01-列表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/01 python 基础语法/11-推导式/02-字典.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/01 python 基础语法/11-推导式/03-集合.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/01 python 基础语法/09-字典和集合/01-字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/class/01 python 基础语法/09-字典和集合/01-字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/01 python 基础语法/09-字典和集合/03-集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/class/01 python 基础语法/09-字典和集合/03-集合.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +92,7 @@
       <recent name="D:\Aschool\Alearning\python\课程" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03-集合">
+  <component name="RunManager" selected="Python.02-公共方法">
     <configuration name="01-字典" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,6 +107,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/01 python 基础语法/09-字典和集合/01-字典.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01-运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class/01 python 基础语法/10-公共的方法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/01 python 基础语法/10-公共的方法/01-运算符.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,6 +159,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="02-公共方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class/01 python 基础语法/10-公共的方法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/01 python 基础语法/10-公共的方法/02-公共方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="03-集合" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,57 +203,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06- 随机分配办公室" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class/01python 基础语法/08-列表和元组" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/01python 基础语法/08-列表和元组/06- 随机分配办公室.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="07-元组" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class/01python 基础语法/08-列表和元组" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/01python 基础语法/08-列表和元组/07-元组.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02-公共方法" />
+        <item itemvalue="Python.01-运算符" />
         <item itemvalue="Python.03-集合" />
         <item itemvalue="Python.02-字典的遍历" />
         <item itemvalue="Python.01-字典" />
-        <item itemvalue="Python.07-元组" />
-        <item itemvalue="Python.06- 随机分配办公室" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +226,8 @@
       <workItem from="1713886059832" duration="71000" />
       <workItem from="1713886150426" duration="28000" />
       <workItem from="1714643285881" duration="3235000" />
-      <workItem from="1714663524612" duration="4505000" />
+      <workItem from="1714663524612" duration="4528000" />
+      <workItem from="1714712664633" duration="2609000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/1' into 1">
       <option name="closed" value="true" />
@@ -241,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714647215186</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/1' into 1">
+      <option name="closed" value="true" />
+      <created>1714670721779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714670721779</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,10 +277,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$myfirstPython.coverage" NAME="myfirstPython 覆盖结果" MODIFIED="1713885313039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class/01python jichuyvfa" />
-    <SUITE FILE_PATH="coverage/python$01_.coverage" NAME="01-字典 覆盖结果" MODIFIED="1714666366691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class/01 python 基础语法/09-字典和集合" />
+    <SUITE FILE_PATH="coverage/python$01_.coverage" NAME="01-运算符 覆盖结果" MODIFIED="1714731943837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class/01 python 基础语法/10-公共的方法" />
     <SUITE FILE_PATH="coverage/python$06__.coverage" NAME="06- 随机分配办公室 覆盖结果" MODIFIED="1714646075558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class/01python 基础语法/08-列表和元组" />
-    <SUITE FILE_PATH="coverage/python$02_.coverage" NAME="02-字典的遍历 覆盖结果" MODIFIED="1714666913943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class/01 python 基础语法/09-字典和集合" />
+    <SUITE FILE_PATH="coverage/python$02_.coverage" NAME="02-公共方法 覆盖结果" MODIFIED="1714732775276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class/01 python 基础语法/10-公共的方法" />
     <SUITE FILE_PATH="coverage/python$07_.coverage" NAME="07-元组 覆盖结果" MODIFIED="1714646601964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class/01python 基础语法/08-列表和元组" />
-    <SUITE FILE_PATH="coverage/python$03_.coverage" NAME="03-集合 覆盖结果" MODIFIED="1714667651311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class/01 python 基础语法/09-字典和集合" />
+    <SUITE FILE_PATH="coverage/python$03_.coverage" NAME="03-集合 覆盖结果" MODIFIED="1714731706551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class/01 python 基础语法/09-字典和集合" />
   </component>
 </project>
